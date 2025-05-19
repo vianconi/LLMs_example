@@ -1,0 +1,16 @@
+prompt,respuesta
+Dame 5 ideas de proyectos para hacer con LLMs,"Aquí tienes 5 ideas de proyectos para hacer con LLMs, con diferentes niveles de complejidad:
+
+1. **Generador de historias interactivas:** Crea una aplicación o un bot que genere historias basadas en las elecciones del usuario.  El LLM puede generar el inicio de la historia, y luego, basándose en las decisiones del usuario (e.g., ""ir a la izquierda"" o ""hablar con el extraño""), generar diferentes capítulos y finales.  Esto requiere manejo de estado y ramificación de la narrativa.  (Complejidad: Media-Alta)
+
+2. **Resumen automático de artículos científicos:**  Entrena un LLM (o usa uno pre-entrenado) para resumir artículos científicos largos y complejos en párrafos cortos y concisos, manteniendo la información clave.  Esto requiere un dataset de artículos científicos y sus resúmenes correspondientes para el entrenamiento o ajuste fino. (Complejidad: Media-Alta)
+
+3. **Chatbot para atención al cliente con personalidad:**  Crea un chatbot que no solo responda preguntas frecuentes, sino que lo haga con una personalidad definida (e.g., amigable, formal, humorístico).  Puedes ajustar el tono y el estilo del LLM para lograr la personalidad deseada.  (Complejidad: Media)
+
+4. **Herramienta de generación de ideas para escritura creativa:**  Desarrolla una herramienta que, dado un tema o género literario, genere ideas para tramas, personajes, diálogos, etc.  Esto puede ser útil para escritores que sufren de bloqueo creativo. (Complejidad: Baja-Media)
+
+5. **Traducción de código entre lenguajes de programación:**  Aunque existen herramientas especializadas, puedes experimentar con un LLM para traducir fragmentos de código de un lenguaje a otro (e.g., Python a JavaScript).  Esto requiere un dataset de pares de código en diferentes lenguajes.  (Complejidad: Alta)
+
+
+Recuerda que la complejidad depende de tu experiencia en programación y el acceso a recursos computacionales.  Puedes adaptar estas ideas a tu nivel de habilidad y recursos disponibles.
+"
